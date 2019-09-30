@@ -2,7 +2,7 @@
 
 ### scrapes product prices and sends email to user.
 
-#### data provided from following site: https://www.skroutz.gr/
+data provided from following site: https://www.skroutz.gr/
 
 This program scrapes the website for following items:
 
